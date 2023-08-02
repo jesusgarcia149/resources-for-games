@@ -1,4 +1,4 @@
-# test
+# RESOURCES FOR GAMES
 
 
 ## LAUNCHERS
