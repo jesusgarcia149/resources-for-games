@@ -13,6 +13,8 @@ choco install rockstar-launcher -y
 choco install msiafterburner -y
 choco install gamesavemanager -y
 
+choco install driverpacksolution -y
+
 choco install dotnet4.7.2 -y
 choco install directx -y
 choco install jre8 -y
@@ -26,3 +28,4 @@ choco install vcredist2017 -y
 choco install vcredist2019 -y
 
 choco install 7zip -y
+choco install openvpn -y
