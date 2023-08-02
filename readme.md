@@ -29,7 +29,7 @@
 
 ```bat
 cd "C:\Program Files (x86)\Steam\"
-start steam.exe
+start steam.exe -gamepadui
 cd "C:\Program Files (x86)\MSI Afterburner\"
 start MSIAfterburner.exe
 cd "C:\Program Files\Handheld Companion\"
