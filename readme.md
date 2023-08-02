@@ -38,6 +38,9 @@ cd "C:\Program Files\Handheld Companion\"
 start HandheldCompanion.exe
 ```
 
+## Drivers
+- https://driverpack.io/es/info/driverpack-online
+
 ## Runtimes
 - .NET Framework 4.7.2
 - Visual C++ Runtimes 2005
@@ -57,3 +60,6 @@ start HandheldCompanion.exe
 ## Utilities
 - **7zip**
 - https://www.7-zip.org/download.html
+- **OpenVPN**
+- https://openvpn.net/community-downloads/
+- 
