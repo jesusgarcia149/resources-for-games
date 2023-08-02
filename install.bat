@@ -2,6 +2,13 @@ powershell.exe "Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.Se
 
 
 choco install steam -y
+choco install epicgameslauncher -y
+choco install uplay -y
+# choco install battlenet -y
+choco install bethesdanet -y
+choco install goggalaxy -y
+choco install origin -y
+choco install rockstar-launcher -y
 
 choco install msiafterburner -y
 
