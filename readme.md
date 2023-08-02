@@ -25,9 +25,6 @@
 - **Handhled Companion** 
 - https://github.com/Valkirie/HandheldCompanion/releases/tag/0.16.2.5
 - **Optimizer** 
-- **Direct Link** 
-- https://github.com/hellzerg/optimizer/releases/download/15.6/Optimizer-15.6.exe
-- **Page Link** 
 - https://github.com/hellzerg/optimizer/releases
 
 ## Runtimes
