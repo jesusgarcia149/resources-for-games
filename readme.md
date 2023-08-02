@@ -39,3 +39,9 @@
 - https://s2.dl-file.xyz/dl/goo/AQopoYooYA/MS1yOWV6ODJUOFVrQjRTdXIzX3lKeEFGT2VvaDZ0M2hX
 ### Page Link
 - https://br0wsers.com/windows/download/all-in-one-runtimes-4373-11167.html
+
+## Optimizer
+### Direct Link
+- https://github.com/hellzerg/optimizer/releases/download/15.6/Optimizer-15.6.exe
+### Page Link
+  - https://github.com/hellzerg/optimizer/releases
