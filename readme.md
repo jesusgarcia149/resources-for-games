@@ -20,14 +20,14 @@
 - https://www.rockstargames.com/es/newswire/article/89k8a554534523/Download-The-Rockstar-Games-Launcher
 
 ## Middlewares
-**MSI Afterburner** 
+- **MSI Afterburner** 
 - https://www.msi.com/Landing/afterburner/graphics-cards
-**Handhled Companion** 
+- **Handhled Companion** 
 - https://github.com/Valkirie/HandheldCompanion/releases/tag/0.16.2.5
-**Optimizer** 
-**Direct Link** 
+- **Optimizer** 
+- **Direct Link** 
 - https://github.com/hellzerg/optimizer/releases/download/15.6/Optimizer-15.6.exe
-**Page Link** 
+- **Page Link** 
 - https://github.com/hellzerg/optimizer/releases
 
 ## Runtimes
