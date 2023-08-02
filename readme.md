@@ -52,6 +52,6 @@ start HandheldCompanion.exe
 - **All in One Runtimes** 
 - https://br0wsers.com/windows/download/all-in-one-runtimes-4373-11167.html
 
-  ## Utilities
-  - **7zip**
-  - https://www.7-zip.org/download.html
+## Utilities
+- **7zip**
+- https://www.7-zip.org/download.html
