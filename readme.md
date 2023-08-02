@@ -23,6 +23,18 @@
 - https://www.msi.com/Landing/afterburner/graphics-cards
 
 ## Runtimes
+- .NET Framework 4.7.2
+- Visual C++ Runtimes 2005
+- Visual C++ Runtimes 2008
+- Visual C++ Runtimes 2010
+- Visual C++ Runtimes 2012
+- Visual C++ Runtimes 2013
+- Visual C++ Runtimes 2015
+- Visual C++ Runtimes 2019
+- DirectX
+- Adobe Flash Player
+- Adobe Shockware
+- Java
 ### Direct Link
 - https://s2.dl-file.xyz/dl/goo/AQopoYooYA/MS1yOWV6ODJUOFVrQjRTdXIzX3lKeEFGT2VvaDZ0M2hX
 ### Page Link
