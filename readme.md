@@ -27,6 +27,15 @@
 - **Optimizer** 
 - https://github.com/hellzerg/optimizer/releases
 
+```bat
+cd "C:\Program Files (x86)\Steam\"
+start steam.exe
+cd "C:\Program Files (x86)\MSI Afterburner\"
+start MSIAfterburner.exe
+cd "C:\Program Files\Handheld Companion\"
+start HandheldCompanion.exe
+```
+
 ## Runtimes
 - .NET Framework 4.7.2
 - Visual C++ Runtimes 2005
