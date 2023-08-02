@@ -2,7 +2,7 @@
 
 
 ## LAUNCHERS
-### Steam
+** Steam **
 - https://store.steampowered.com/about/
 ### Epic Games
 - https://store.epicgames.com/en-US/
