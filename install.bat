@@ -23,3 +23,5 @@ choco install vcredist2013 -y
 choco install vcredist2015 -y
 choco install vcredist2017 -y
 choco install vcredist2019 -y
+
+choco install 7zip -y
