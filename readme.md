@@ -40,7 +40,5 @@
 - Adobe Flash Player
 - Adobe Shockware
 - Java
-- **Direct Link** 
-- https://s2.dl-file.xyz/dl/goo/AQopoYooYA/MS1yOWV6ODJUOFVrQjRTdXIzX3lKeEFGT2VvaDZ0M2hX
-- **Page Link** 
+- **All in One Runtimes** 
 - https://br0wsers.com/windows/download/all-in-one-runtimes-4373-11167.html
