@@ -67,6 +67,8 @@ start HandheldCompanion.exe
 - https://br0wsers.com/windows/download/all-in-one-runtimes-4373-11167.html
 
 ## Utilities
+- **Qbittorrent**
+- https://www.qbittorrent.org/download
 - **7zip**
 - https://www.7-zip.org/download.html
 - **OpenVPN**
