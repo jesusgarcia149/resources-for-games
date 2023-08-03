@@ -33,6 +33,7 @@ choco install vcredist2019 -y
 
 choco install 7zip -y
 choco install openvpn -y
+choco install qbittorrent -y
 
 choco install wget -y
 
