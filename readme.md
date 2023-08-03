@@ -47,8 +47,8 @@ start HandheldCompanion.exe
 ```
 
 ## Drivers
-- **Driver Pack Solutions**
-- https://driverpack.io/es/info/driverpack-online
+- **Snappy Driver Installer**
+- https://sdi-tool.org/releases/SDI_R2305.zip
 
 ## Runtimes
 - .NET Framework 4.7.2
