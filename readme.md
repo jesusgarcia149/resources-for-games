@@ -18,6 +18,8 @@
 - ???
 - **Rockstar Games** 
 - https://www.rockstargames.com/es/newswire/article/89k8a554534523/Download-The-Rockstar-Games-Launcher
+- **heroicgameslauncher**
+- ??
 
 ## Middlewares
 - **MSI Afterburner** 
