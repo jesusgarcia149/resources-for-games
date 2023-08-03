@@ -20,6 +20,8 @@
 - https://www.rockstargames.com/es/newswire/article/89k8a554534523/Download-The-Rockstar-Games-Launcher
 - **Nvidia Gforce Now**
 - https://download.nvidia.com/gfnpc/GeForceNOW-release.exe
+- **Retroarch**
+- https://buildbot.libretro.com/stable/1.15.0/windows/x86_64/RetroArch-Win64-setup.exe
 - **heroicgameslauncher**
 - https://heroicgameslauncher.com/downloads
 
