@@ -13,7 +13,7 @@ choco install rockstar-launcher -y
 choco install msiafterburner -y
 choco install gamesavemanager -y
 
-choco install driverpacksolution -y
+# choco install driverpacksolution -y
 
 choco install dotnet4.7.2 -y
 choco install directx -y
