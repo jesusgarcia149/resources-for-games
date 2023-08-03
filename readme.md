@@ -26,10 +26,13 @@
 - https://www.msi.com/Landing/afterburner/graphics-cards
 - **Handhled Companion** 
 - https://github.com/Valkirie/HandheldCompanion/releases/tag/0.16.2.5
-- **Game Save Manager**
-- https://www.gamesave-manager.com/?s=download&ref=ee3756da-d69b-483b-bf88-b672a74daec6&action=thanks
 - **Optimizer** 
 - https://github.com/hellzerg/optimizer/releases
+- **Save Game Modes**
+- **Game Save Manager - Local**
+- https://www.gamesave-manager.com/?s=download&ref=ee3756da-d69b-483b-bf88-b672a74daec6&action=thanks
+- **Mega Sync - Cloud**
+- https://mega.io/es/desktop
 
 ## Heroic Games Launcher Gamemode
 ```bat
