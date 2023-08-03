@@ -12,6 +12,7 @@ choco install rockstar-launcher -y
 
 choco install msiafterburner -y
 choco install gamesavemanager -y
+choco install megasync -y
 
 # choco install driverpacksolution -y
 
