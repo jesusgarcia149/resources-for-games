@@ -75,4 +75,3 @@ start HandheldCompanion.exe
 - https://www.7-zip.org/download.html
 - **OpenVPN**
 - https://openvpn.net/community-downloads/
-- 
