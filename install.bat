@@ -10,10 +10,12 @@ choco install goggalaxy -y
 choco install origin -y
 
 choco install nvidia-geforce-now -y
-
+# choco install retroarch -y #not found
 choco install rockstar-launcher -y
+# choco install heroicgameslauncher -y #not exist
 
 choco install msiafterburner -y
+# choco install handheldcompanion -y #not exist
 choco install gamesavemanager -y
 choco install megasync -y
 
@@ -30,6 +32,8 @@ choco install vcredist2013 -y
 choco install vcredist2015 -y
 choco install vcredist2017 -y
 choco install vcredist2019 -y
+
+# choco install optimizer -y #not exist
 
 choco install 7zip -y
 choco install openvpn -y
