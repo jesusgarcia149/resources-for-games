@@ -38,18 +38,6 @@
   - **Mega Sync - Cloud**
   - https://mega.io/es/desktop
 
-## Heroic Games Launcher Gamemode
-```bat
-cd "C:\Users\Administrador1\AppData\Local\Programs\heroic"
-start Heroic.exe
-cd "C:\Program Files (x86)\MSI Afterburner\"
-start MSIAfterburner.exe
-cd "C:\Program Files\Handheld Companion\"
-start HandheldCompanion.exe
-cd "C:\ProgramData\MEGAsync"
-start MEGAsync.exe
-```
-
 ## Drivers
 - **3DP Chip**
 - https://www.3dpchip.com/3dp/chip_down_lite.php?pl=es_es
