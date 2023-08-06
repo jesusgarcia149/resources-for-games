@@ -51,8 +51,8 @@ start MEGAsync.exe
 ```
 
 ## Drivers
-- **Snappy Driver Installer**
-- https://sdi-tool.org/releases/SDI_R2305.zip
+- **3DP Chip**
+- https://www.3dpchip.com/3dp/chip_down_lite.php?pl=es_es
 
 ## Runtimes
 - .NET Framework 4.7.2
