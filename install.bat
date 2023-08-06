@@ -20,7 +20,7 @@ choco install msiafterburner -y
 choco install gamesavemanager -y
 choco install megasync -y
 
-# choco install snappy-driver-installer -y #not found
+# choco install 3dp-chip -y #not exist
 
 choco install dotnet4.7.2 -y
 choco install directx -y
@@ -40,7 +40,7 @@ choco install qbittorrent -y
 
 choco install wget -y
 
-wget https://sdi-tool.org/releases/SDI_R2305.zip
+wget https://www.3dpchip.com/new/3DP_Chip_v2307.exe
 wget https://buildbot.libretro.com/stable/1.15.0/windows/x86_64/RetroArch-Win64-setup.exe
 wget https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/releases/download/v2.9.1/Heroic-2.9.1-Setup-x64.exe
 wget https://github.com/Valkirie/HandheldCompanion/releases/download/0.16.2.5/HandheldCompanion-0.16.2.5.exe
