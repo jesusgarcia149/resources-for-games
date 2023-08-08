@@ -63,5 +63,5 @@
 - https://www.qbittorrent.org/download
 - **7zip**
 - https://www.7-zip.org/download.html
-- **OpenVPN**
-- https://openvpn.net/community-downloads/
+- **Urban VPN**
+- https://www.urban-vpn.com/es/free-products/free-windows-vpn/
