@@ -45,4 +45,5 @@ wget https://buildbot.libretro.com/stable/1.15.0/windows/x86_64/RetroArch-Win64-
 wget https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/releases/download/v2.9.1/Heroic-2.9.1-Setup-x64.exe
 wget https://github.com/Valkirie/HandheldCompanion/releases/download/0.16.2.5/HandheldCompanion-0.16.2.5.exe
 wget https://github.com/hellzerg/optimizer/releases/download/15.6/Optimizer-15.6.exe
+# return Calculator = Optimizer > Apps UWP > Microsoft.WindowsCalculator
 wget https://download.urban-vpn.com/latest/UrbanVPN2.exe
