@@ -20,6 +20,7 @@ choco install msiafterburner -y
 choco install gamesavemanager -y
 choco install megasync -y
 
+choco install driverbooster -y
 # choco install 3dp-chip -y #not exist
 
 choco install dotnet4.7.2 -y
