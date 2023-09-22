@@ -61,7 +61,9 @@
 ## Utilities
 - **Qbittorrent**
 - https://www.qbittorrent.org/download
-- **7zip**
-- https://www.7-zip.org/download.html
+- **Acetone Iso**
+- https://en.wikipedia.org/wiki/AcetoneISO
+- **Pea zip**
+- https://peazip.github.io/
 - **Urban VPN**
 - https://www.urban-vpn.com/es/free-products/free-windows-vpn/
