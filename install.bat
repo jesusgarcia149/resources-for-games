@@ -13,6 +13,7 @@ choco install steam -y
 # choco install retroarch -y #not found
 # choco install rockstar-launcher -y
 # choco install heroicgameslauncher -y #not exist
+# choco install gameloop -y
 
 choco install msiafterburner -y
 # choco install handheldcompanion -y #not exist
@@ -42,6 +43,7 @@ choco install qbittorrent -y
 choco install wget -y
 
 wget https://www.3dpchip.com/new/3DP_Chip_v2307.exe
+wget https://down.gameloop.com/k_pack_up/16229/c22158645/GLP_installer_1000218273_com.tencent.ig.exe
 wget https://buildbot.libretro.com/stable/1.15.0/windows/x86_64/RetroArch-Win64-setup.exe
 wget https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/releases/download/v2.9.1/Heroic-2.9.1-Setup-x64.exe
 wget https://github.com/Valkirie/HandheldCompanion/releases/download/0.16.2.5/HandheldCompanion-0.16.2.5.exe
