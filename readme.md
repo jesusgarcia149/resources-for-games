@@ -24,6 +24,8 @@
 - https://buildbot.libretro.com/stable/1.15.0/windows/x86_64/RetroArch-Win64-setup.exe
 - **heroicgameslauncher**
 - https://heroicgameslauncher.com/downloads
+- **GameLoop**
+- https://gameloop.softonic.com/
 
 ## Middlewares
 - **MSI Afterburner** 
