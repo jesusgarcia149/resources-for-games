@@ -25,7 +25,7 @@
 - **heroicgameslauncher**
 - https://heroicgameslauncher.com/downloads
 - **GameLoop**
-- https://gameloop.softonic.com/
+- https://down.gameloop.com/k_pack_up/16412/c22261205/GLP_installer_1000218456_market.exe
 
 ## Middlewares
 - **MSI Afterburner** 
