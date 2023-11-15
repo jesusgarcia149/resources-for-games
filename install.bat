@@ -39,4 +39,6 @@ sudo apt install 7zip -y
 sudo apt install qbittorrent -y
 
 sudo apt install wget -y
-
+wget https://deploy.totallyacdn.com/desktop-apps/2.7.14/windscribe_2.7.14_amd64.deb
+sudo dpkg -i windscribe_2.7.14_amd64.deb
+sudo apt install -f -y
