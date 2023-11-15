@@ -67,5 +67,5 @@
 - https://en.wikipedia.org/wiki/AcetoneISO
 - **Pea zip**
 - https://peazip.github.io/
-- **Urban VPN**
-- https://www.urban-vpn.com/es/free-products/free-windows-vpn/
+- **Windscribe VPN**
+- https://esp.windscribe.com/guides/linux
